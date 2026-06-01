@@ -1,0 +1,13 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# never commit secrets or source material
+.env
+.env.*
+_pdf_txt/
+_hooka_scan/
+*.pdf
