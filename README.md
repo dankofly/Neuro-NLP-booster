@@ -1,9 +1,17 @@
 # Neuro-NLP Booster
 
-A maximalist **NLP + Neuromarketing copywriting and web-design engine** for Claude Code, shipped as a Skill plus a
-dedicated subagent. It engineers website copy, landing pages, hero sections, ads, emails, and hooks using
-subconscious-influence techniques, then matches the visual design to the same emotional motive. Every asset is built
-motive-first, judged by an internal council, scored, and optimized.
+### Most AI copy sounds like AI. This makes it convert.
+
+A Claude Code skill that turns Claude into a neuromarketing copywriter. It targets the buyer's emotional motive
+(Limbic map), writes with Milton Model language patterns and Sleight of Mouth reframes, scores every draft on four
+neuro-metrics, and runs a 5-voice internal council that **vetoes cringe and manipulative copy before it ships.**
+
+Grounded in real books (Häusel, O'Connor, Dilts), not vibes. Does copy *and* design.
+
+> Audit → 3 candidates → a council of 3 optimists + 2 critics judges them → the best plan ships. The two critics are
+> the built-in BS-radar, so self-flattering AI copy can't win.
+
+**[Install](#install) · [How it works](#the-operating-procedure-council-sop)**
 
 Built by [Daniel Kofler](https://github.com/dankofly) / HYPEAKZ. Generalizes the engine behind
 [hooka](https://github.com/dankofly/hooka) from video hooks to full websites and design.
